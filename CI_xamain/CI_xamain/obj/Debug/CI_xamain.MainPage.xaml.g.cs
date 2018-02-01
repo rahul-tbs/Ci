@@ -11,8 +11,7 @@
 namespace CI_xamain {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\users\\techbrain\\documents\\visual studio 2015\\Projects\\CI_xamain\\CI_xamain\\CI_x" +
-        "amain\\MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\Rahul\\CI_xamain\\CI_xamain\\CI_xamain\\MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

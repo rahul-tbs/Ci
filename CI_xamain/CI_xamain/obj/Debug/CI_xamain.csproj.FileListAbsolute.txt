@@ -1,0 +1,14 @@
+E:\Rahul\CI_xamain\CI_xamain\CI_xamain\bin\Debug\CI_xamain.dll
+E:\Rahul\CI_xamain\CI_xamain\CI_xamain\bin\Debug\CI_xamain.pdb
+E:\Rahul\CI_xamain\CI_xamain\CI_xamain\bin\Debug\Xamarin.Forms.Core.dll
+E:\Rahul\CI_xamain\CI_xamain\CI_xamain\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Rahul\CI_xamain\CI_xamain\CI_xamain\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Rahul\CI_xamain\CI_xamain\CI_xamain\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Rahul\CI_xamain\CI_xamain\CI_xamain\bin\Debug\Xamarin.Forms.Core.xml
+E:\Rahul\CI_xamain\CI_xamain\CI_xamain\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Rahul\CI_xamain\CI_xamain\CI_xamain\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Rahul\CI_xamain\CI_xamain\CI_xamain\obj\Debug\CI_xamain.csprojResolveAssemblyReference.cache
+E:\Rahul\CI_xamain\CI_xamain\CI_xamain\obj\Debug\CI_xamain.MainPage.xaml.g.cs
+E:\Rahul\CI_xamain\CI_xamain\CI_xamain\obj\Debug\CI_xamain.App.xaml.g.cs
+E:\Rahul\CI_xamain\CI_xamain\CI_xamain\obj\Debug\CI_xamain.dll
+E:\Rahul\CI_xamain\CI_xamain\CI_xamain\obj\Debug\CI_xamain.pdb
